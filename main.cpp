@@ -16,6 +16,9 @@ int main(int argc, char *argv[]){
 	else if(x>1){
 		std::cout<<"Hallo kein Test"<<std::endl;
 	}
+	else if(x<1){
+		
+	}
 	else{
 		std::cout<<"Hallo ein Test"<<std::endl;
 	}
