@@ -13,4 +13,10 @@ int main(int argc, char *argv[]){
 	if(x<3){
 		std::cout<<"Hallo kein Test"<<std::endl;
 	}
+	else if(x>1){
+		std::cout<<"Hallo kein Test"<<std::endl;
+	}
+	else{
+		std::cout<<"Hallo ein Test"<<std::endl;
+	}
 }
