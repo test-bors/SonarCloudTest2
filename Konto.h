@@ -17,7 +17,7 @@ class Konto
 {
 public:
 	Konto();
-	Konto(const int &nr);
+	explicit Konto(const int &nr);
 	~Konto();
 	void einzahlen(const int &summe);
 	void print(void);
