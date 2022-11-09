@@ -3,7 +3,6 @@
 #include "Konto.h"
 
 int main(){
-	//Bank naspa(51050015,"Naspa");
 	Konto ru(0001);
 	ru.setNachnameInhaber("Hinz");
 	ru.setVornameInhaber("Ruben");
@@ -17,5 +16,5 @@ int main(){
 	ru.uberweisen(30,1234,test);
 	ru.print();
 	test.print();
-	
+
 }
