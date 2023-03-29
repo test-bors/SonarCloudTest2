@@ -6,7 +6,7 @@ required_approvals = 0
 
 up_to_date_approvals = true
 
-status = ["Build"]
+status = ["Build", "sonar-scanner]
 
 timeout_sec = 21600
 
