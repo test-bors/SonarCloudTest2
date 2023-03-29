@@ -7,10 +7,6 @@ on:
       - staging
       - trying
   pull_request:
-    branches:
-      - master
-      - staging
-      - trying
 
 jobs:
   build:
