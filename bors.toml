@@ -1,1 +1,21 @@
+# Settings for Bors-NG
+# Additional information regarding the bors setup can be found here:
+# https://bors.tech/documentation/
 
+required_approvals = 0
+
+up_to_date_approvals = true
+
+status = ["continuous-integration"]
+
+timeout_sec = 21600
+
+prerun_timeout_sec = 21600
+
+delete_merged_branches = true
+
+block_labels = ["do not merge"]
+
+use_squash_merge = true
+
+use_codeowners = false
