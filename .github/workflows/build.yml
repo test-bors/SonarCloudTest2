@@ -1,6 +1,7 @@
 name: CI
 on:
-  # Only run when merging to master, or open/synchronize/reopen a PR.
+  push:
+    branches: [main, staging, trying]
   pull_request:
     branches: [main]
 
