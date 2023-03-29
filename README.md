@@ -1,5 +1,6 @@
 # SonarCloudTest
 Small project to test interaction with sonarcloud and cmake...
+and bors bot...
 [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-black.svg)](https://sonarcloud.io/summary/new_code?id=RuHiCo_SonarCloudTest)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=RuHiCo_SonarCloudTest&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=RuHiCo_SonarCloudTest)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=RuHiCo_SonarCloudTest&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=RuHiCo_SonarCloudTest)
