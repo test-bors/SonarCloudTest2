@@ -1,4 +1,4 @@
-/*class Bank
+/*class Bank Test
 {
 	
 public:
