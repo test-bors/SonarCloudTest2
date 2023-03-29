@@ -6,7 +6,7 @@ required_approvals = 0
 
 up_to_date_approvals = true
 
-status = ["continuous-integration"]
+status = ["Build"]
 
 timeout_sec = 21600
 
