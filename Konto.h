@@ -1,6 +1,6 @@
 /*class Bank Test unwichtig
 {
-	test1
+	test2
 public:
 	Bank();
 	Bank(const int &bz,std::string name);
