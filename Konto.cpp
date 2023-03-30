@@ -10,7 +10,7 @@
 }
 
 Bank::~Bank(){
-test1
+test2
 }*/
 
 Konto::Konto(const int &nr){
