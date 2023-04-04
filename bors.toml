@@ -7,7 +7,7 @@ required_approvals = 0
 up_to_date_approvals = true
 
 status = ["Build"]
-pr_status = ["Build"]
+
 timeout_sec = 21600
 
 prerun_timeout_sec = 21600
