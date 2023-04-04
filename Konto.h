@@ -1,5 +1,6 @@
 /*class Bank Test unwichtig
 {
+
 	test5
 public:
 	Bank();
