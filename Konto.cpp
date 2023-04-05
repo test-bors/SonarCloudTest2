@@ -29,14 +29,14 @@ void Konto::einzahlen(const int &summe){
 	std::cout<<"Einzahlen von "<<summe<<" Euro auf Konto "<<std::setw(4)<<std::setfill('0')<<kontoNr<<" erfolgreich"<<std::endl<<std::endl;
 }
 
-void Konto::abheben(const int &summe,int test){
+/*void Konto::abheben(const int &summe,int test){
 	if(pin==test){
 		if(summe<=guthaben){
 			guthaben=guthaben-summe;
 			std::cout<<"Abheben von "<<summe<<" Euro auf Konto "<<std::setw(4)<<std::setfill('0')<<kontoNr<<"  erfolgreich"<<std::endl<<std::endl;
 		}
 	}
-}
+}*/
 
 void Konto::uberweisen(const int &summe,int test,Konto &zu){
 	if(pin==test){
