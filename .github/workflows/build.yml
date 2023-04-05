@@ -24,6 +24,9 @@ jobs:
           New-Item -ItemType directory -Path build
           cmake -S . -B build   
           cmake --build build/ --config Release
+      - name: Sleep for 180 seconds
+        run: Start-Sleep -s 180
+        shell: powershell
       #- name: Run Tests
       #  run: ctest -C Release -V
       #  working-directory: ${{ runner.workspace }}/_build/complete
