@@ -11,7 +11,7 @@
 
 Bank::~Bank(){
 
-test16
+test17
 }*/
 
 Konto::Konto(const int &nr){
