@@ -24,8 +24,8 @@ jobs:
           New-Item -ItemType directory -Path build
           cmake -S . -B build   
           cmake --build build/ --config Release
-      - name: Sleep for 180 seconds
-        run: Start-Sleep -s 180
+      - name: Sleep for 20 seconds
+        run: Start-Sleep -s 20
         shell: powershell
       #- name: Run Tests
       #  run: ctest -C Release -V
