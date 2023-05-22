@@ -18,4 +18,4 @@ block_labels = ["do not merge"]
 
 use_squash_merge = true
 
-use_codeowners = true
+use_codeowners = false
