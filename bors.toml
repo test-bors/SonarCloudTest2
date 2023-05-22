@@ -2,7 +2,7 @@
 # Additional information regarding the bors setup can be found here:
 # https://bors.tech/documentation/
 
-required_approvals = 1
+required_approvals = 0
 
 up_to_date_approvals = true
 status = ["Build"]
